@@ -17,7 +17,7 @@ namespace APITest.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
-        private string Test { get; set; }
+        private string Test9 { get; set; }
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
